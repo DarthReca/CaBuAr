@@ -1,5 +1,3 @@
-# Copyright 2022 Daniele Rege Cambrin
-
 import glob
 from itertools import chain
 from pathlib import Path
