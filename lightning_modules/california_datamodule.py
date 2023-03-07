@@ -12,6 +12,8 @@ import skimage.util as util
 import torch
 from torch.utils.data import DataLoader, Dataset
 
+from utils import config_to_object
+
 
 class CaliforniaDataModule(pl.LightningDataModule):
     def __init__(self, **hparams: Dict[str, Any]):
