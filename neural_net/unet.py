@@ -1,5 +1,3 @@
-# Implementation of Simone Monaco from https://github.com/dbdmg/rescue
-
 from collections import OrderedDict
 
 import torch
