@@ -1,4 +1,3 @@
-# Implementation of Simone Monaco from https://github.com/dbdmg/rescue
 # sub-parts of the U-Net model
 
 import torch
