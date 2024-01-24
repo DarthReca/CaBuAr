@@ -1,6 +1,6 @@
-<div align="center">
-  CaBuAr
-</div>
+<h1 align="center">
+  CaBuAr: California Burned Areas dataset for delineation
+</h1>
 
 <div align="center">
 <br />
@@ -19,29 +19,21 @@
   - [Prerequisites](#prerequisites)
 - [Authors & contributors](#authors--contributors)
 - [License](#license)
-
 </details>
 
 ---
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+This is the repository to reproduce the experiments of **CaBuAr: California Burned Areas dataset for delineation** published in IEEE Geoscience and Remote Sensing Magazine. 
 
-</details>
+You can find the dataset on [Hugging Face](https://huggingface.co/datasets/DarthReca/california_burned_areas).
+
+The pre-print is available on [Arxiv](https://arxiv.org/abs/2401.11519) and the accepted version on [IEEE](https://ieeexplore.ieee.org/document/10261881/).
 
 ## Getting Started
 
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
+The project makes use of the Pytorch Lightning ecosystem. In `lightning modules`, you can find lightning models and data modules.
 
 ## Authors & contributors
 
